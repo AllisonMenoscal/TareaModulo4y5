@@ -1,0 +1,27 @@
+.Resumen{
+    text-align: justify;
+}
+div h2{
+    text-align: center;
+}
+#AppRoutingModule{
+    content: "";
+    display: table;
+    clear: both;
+    margin-left: 160px;
+}
+
+div #resumen, #ImgRoiting{
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    text-align: justify;
+}
+
+#ImgAppRoutingModule{
+    padding: 15px;
+    height: 250px;
+    width: 400px;
+
+}
+
